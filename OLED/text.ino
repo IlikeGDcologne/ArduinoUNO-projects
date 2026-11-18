@@ -23,6 +23,6 @@ void loop() {
 }
 
 
-
+//You can add: display.drawBitmap(0, 0, oled_image, SCREEN_WIDTH, SCREEN_HEIGHT, WHITE) to add images
 //Wiring: GND - GND, VCC - VCC, SDA - A4, SCK - A5
 //In loop you may add display.scrollRight(0, 7) to scroll right for 7 seconds
