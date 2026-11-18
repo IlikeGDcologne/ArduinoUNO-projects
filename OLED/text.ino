@@ -15,7 +15,7 @@ void setup() {
   display.setTextSize(2);
   display.setTextColor(WHITE);
   display.setCursor(10, 10);
-  display.println("Subscribe");
+  display.println("Add your text");
   display.display();
 }
 
