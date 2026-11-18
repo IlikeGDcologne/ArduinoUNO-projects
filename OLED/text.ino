@@ -21,3 +21,8 @@ void setup() {
 
 void loop() {
 }
+
+
+
+//Wiring: GND - GND, VCC - VCC, SDA - A4, SCK - A5
+//In loop you may add display.scrollRight(0, 7) to scroll right for 7 seconds
